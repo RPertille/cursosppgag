@@ -2,7 +2,6 @@
 title: "Cursos de estatística computacional e reprodutibilidade científica com linguagem R"
 fontsize: 20pt
 output: 
-  rmd_document:
     css: background.css
 ---
 
