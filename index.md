@@ -6,33 +6,9 @@ fontsize: 20pt
 
 <body style="background-color: #F0FFF0; color: black"> 
 	
-<div class="fab">
-  <button class="main">
-  </button>
-  <ul>
-    <li>
-      <label for="opcao1">Opção 1</label>
-      <button id="opcao1">
-      ⎈
-      </button>
-    </li>
-    <li>
-      <label for="opcao2">Opção 2</label>
-      <button id="opcao2">
-      ⎗
-      </button>
-    </li>
-    <li>
-      <label for="opcao3">Opção 3</label>
-      <button id="opcao3">
-      ☏
-      </button>
-    </li>
-  </ul>
-</div>
+
  
- 
-<div align="left" id="float-banner" class="float-banner">
+<div align="left">
 	<br>
 	<a href="https://rpertille.github.io/cursos/">
 		<img src="img_lateral.jpg" width="200" height="200" align="left">
