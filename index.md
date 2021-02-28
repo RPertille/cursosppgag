@@ -20,8 +20,8 @@ fontsize: 20pt
 
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/RPertille/cursosppgag/main/foto_maca.jfif">
-		<img src="foto_maca.jfif" width="800" height="800" alt="Click to see">
+	<a href="rpertille.github.io/cursos">
+		<img src="foto_maca.jfif" width="800" height="800" alt="Click to See Courses Catalog">
 	</a>
 	<br>
 </div>
