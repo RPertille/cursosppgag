@@ -1,5 +1,7 @@
 ---
+
 title: "Cursos de estatística computacional e reprodutibilidade científica com linguagem R"
+
 ---
 ### Em construção
 
