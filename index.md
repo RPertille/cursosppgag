@@ -2,11 +2,43 @@
 title: "Cursos de estatística computacional e reprodutibilidade científica com linguagem R"
 fontsize: 20pt
 ---
-<html lang="en">
+<html>
 
 <body style="background-color: #F0FFF0; color: black">
 
-
+<head>
+  <title>Div flutuante centro da tela.</title>
+  <style type="text/css">
+    body {background-color: #CCC; font-family: Tahoma,Arial;}
+    #posiciona {
+        position: absolute; /* posição absoluta ao elemento pai, neste caso o BODY */
+        /* Posiciona no meio, tanto em relação a esquerda como ao topo */
+        left: 50%; 
+        top: 50%;
+        width: 300px; /* Largura da DIV */
+        height: 250px; /* Altura da DIV */
+        /* A margem a esquerda deve ser menos a metade da largura */
+        /* A margem ao topo deve ser menos a metade da altura */
+        /* Fazendo isso, centralizará a DIV */
+        margin-left: -150px;
+        margin-top: -125px;
+        background-color: #FFF;
+        color: #FFF;
+        background-color: #666;
+        text-align: center; /* Centraliza o texto */
+        z-index: 1000; /* Faz com que fique sobre todos os elementos da página */
+    }
+    #fechar { margin: 5px; font-size: 12px; }
+  </style>
+  <script>
+    function fechar() { 
+        document.getElementById("posiciona").style.display = 'none'; 
+    }
+ </script>
+ </head>
+ 
+ 
+ 
 <div align="left" id="float-banner" class="float-banner">
 	<br>
 	<a href="https://rpertille.github.io/cursos/">
@@ -32,106 +64,6 @@ fontsize: 20pt
 
 
 
-
-
-
-
-
-
-<p>.</p>
-<p>.</p>
-<p></p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p><p>.</p>
-
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p><p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
-
-
-
-
-
-
-
-
-
-
-<p>
-	sfsfsfsfsfsfsfsf
-	sfsfsfsfsfsfsfsf
-</p>
 
 
 </body>
