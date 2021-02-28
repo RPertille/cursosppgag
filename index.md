@@ -1,8 +1,6 @@
 ---
 title: "Cursos de estatística computacional e reprodutibilidade científica com linguagem R"
 fontsize: 20pt
-output: 
-    css: background.css
 ---
 
 ### Em construção
@@ -20,3 +18,10 @@ output:
  [![Screenshot](...)](link de site para redirecionar)
 
 
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+		<img src="header.svg" width="800" height="400" alt="Click to see">
+	</a>
+	<br>
+</div>
