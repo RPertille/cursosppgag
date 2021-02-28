@@ -1,6 +1,19 @@
 ---
 title: "Cursos de estatística computacional e reprodutibilidade científica com linguagem R"
 fontsize: 20pt
+header-includes:
+ \usepackage{background}
+ \usepackage{float}
+ \backgroundsetup{
+ scale=1,
+ color=black,
+ opacity=0.4,
+ angle=0,
+ pages=all,
+ contents={
+  \includegraphics[width=\paperwidth,height=\paperheight]{C:/Users/path_to_image/image.jpg}
+ }
+ }
 ---
 
 ### Em construção
