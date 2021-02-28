@@ -27,7 +27,7 @@ fontsize: 20pt
 <div align="center">
 	<br>
 	<a href="https://rpertille.github.io/cursos/">
-		<img src="img_lateral.jpeg" width="20" height="800" align="left">
+		<img src="img_lateral.jpg" width="20" height="800" align="left">
 	</a>
 	<br>
 </div>
