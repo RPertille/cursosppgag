@@ -10,7 +10,7 @@ fontsize: 20pt
 
 ### Em construção
 <a href="https://go.kiwify.com.br/mo5GEX9">
-		<**Adquira aqui**>
+	<n> Adquira aqui </n>
 	</a>
 
 <p>  Curso de programação em R (Básico) (R$ 152,70) - [**Adquira aqui**](https://go.kiwify.com.br/mo5GEX9) -> *EM BREVE*! </p>
