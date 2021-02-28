@@ -4,7 +4,7 @@ fontsize: 20pt
 ---
 <html lang="en">
 
-<body style="background-color: greylight; color: white">
+<body style="background-color: grey; color: white">
 
 
 
