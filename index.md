@@ -27,7 +27,7 @@ fontsize: 20pt
 <div align="center">
 	<br>
 	<a href="https://rpertille.github.io/cursos/">
-		<img src="foto_maca.jfif" width="200" height="200" alt="Click to See Courses Catalog">
+		<img src="img_lateral" width="20" height="800" align="left">
 	</a>
 	<br>
 </div>
