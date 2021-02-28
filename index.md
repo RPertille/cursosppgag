@@ -20,7 +20,7 @@ fontsize: 20pt
 
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+	<a href="https://raw.githubusercontent.com/RPertille/cursosppgag/main/foto_maca.jfif">
 		<img src="header.svg" width="800" height="400" alt="Click to see">
 	</a>
 	<br>
