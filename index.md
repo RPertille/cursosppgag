@@ -2,6 +2,7 @@
 title: "Cursos de estatística computacional e reprodutibilidade científica com linguagem R"
 fontsize: 20pt
 ---
+
 ### Em construção
 
  Curso de programação em R (Básico) (R$ 152,70) - [**Adquira aqui**](https://go.kiwify.com.br/mo5GEX9) -> *EM BREVE*!
