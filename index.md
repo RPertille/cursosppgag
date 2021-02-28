@@ -3,11 +3,7 @@ title: "Cursos de estatística computacional e reprodutibilidade científica com
 fontsize: 20pt
 ---
 <html>
-
-<body style="background-color: #F0FFF0; color: black">
-
-<head>
-  <title>Div flutuante centro da tela.</title>
+	<head>
   <style type="text/css">
     body {background-color: #CCC; font-family: Tahoma,Arial;}
     #posiciona {
@@ -36,7 +32,8 @@ fontsize: 20pt
     }
  </script>
  </head>
- 
+
+<body style="background-color: #F0FFF0; color: black"> 
  
  
 <div align="left" id="float-banner" class="float-banner">
