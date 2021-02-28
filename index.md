@@ -2,6 +2,11 @@
 title: "Cursos de estatística computacional e reprodutibilidade científica com linguagem R"
 fontsize: 20pt
 ---
+<html lang="en">
+
+<body style="background-color: black; color: white">
+
+
 
 ### Em construção
 
@@ -25,3 +30,7 @@ fontsize: 20pt
 	</a>
 	<br>
 </div>
+
+
+</body>
+</html>
