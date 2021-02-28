@@ -7,6 +7,13 @@ fontsize: 20pt
 <body style="background-color: #F0FFF0; color: black">
 
 
+<div align="left" id="float-banner" class="float-banner">
+	<br>
+	<a href="https://rpertille.github.io/cursos/">
+		<img src="img_lateral.jpg" width="200" height="200" align="left">
+	</a>
+	<br>
+</div>
 
 ### Em construção
 
@@ -24,13 +31,6 @@ fontsize: 20pt
 <p> [![Screenshot](...)](link de site para redirecionar) </p>
 
 
-<div align="left" id="float-banner" class="float-banner">
-	<br>
-	<a href="https://rpertille.github.io/cursos/">
-		<img src="img_lateral.jpg" width="20" height="800" align="left">
-	</a>
-	<br>
-</div>
 
 
 </body>
